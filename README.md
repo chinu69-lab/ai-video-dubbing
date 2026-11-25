@@ -27,8 +27,8 @@ See the result before you try it. Both clips below are hosted on Google Drive.
 
 | | Video | Link |
 | --- | --- | --- |
-| 🎬 **Before dubbing** | Original video with the source-language audio | [▶ Watch original video](https://drive.google.com/file/d/1W5t4VivUg2iTBq4Qtk3WfvfLnfOI7VPd/view) |
-| 🔊 **After dubbing** | Same video with AI-generated dubbed audio | [▶ Watch dubbed video](https://drive.google.com/file/d/1LSQFiEm212ITliBhRdBVab-M1YARrX13/view) |
+| 🎬 **Before dubbing** | Original video with the source-language audio | [▶ Watch original video](https://drive.google.com/file/d/1LSQFiEm212ITliBhRdBVab-M1YARrX13/view) |
+| 🔊 **After dubbing** | Same video with AI-generated dubbed audio | [▶ Watch dubbed video](https://drive.google.com/file/d/1W5t4VivUg2iTBq4Qtk3WfvfLnfOI7VPd/view) |  
 
 > 💡 **Tip:** Watch the original first, then the dubbed version, to compare voice, timing, and background audio.
 
